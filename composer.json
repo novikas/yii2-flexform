@@ -1,0 +1,26 @@
+{
+	"name":"novikas/yii2-flexform",
+	"description": "Includes two different widgets: FlexibleForm and FlexibleGrid, based on yii\\widgets\\ActiveForm and kartik\\widgets\\ActiveForm class which allowing adjust visibility of fields/columns for each user individualy. Require running migration.",
+	"keywords": ["yii2", "ActiveForm", "GridView", "adjustable"],
+	"licence": "BSD-3-Clause",
+	"type": "yii2-extension",	
+	"support": {
+		"source": "https://github.com/yiisoft/yii",
+	},
+	"authors" : [
+		{
+			"name": "Andrei Novikov",
+			"email": "amadeomazerai93@gmail.com",
+		}
+	],
+	"require": {
+		"kartik-v/yii2-grid"
+	},
+	"autoload": {
+		"psr-4": {
+			"novikas\\datecontrol\\": ""
+		}
+	}
+	
+}
+
