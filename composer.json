@@ -16,7 +16,7 @@
 		}
 	],
 	"require": {
-		"kartik-v/yii2-grid"
+		"kartik-v/yii2-grid": "*"
 	},
 	"autoload": {
 		"psr-4": {

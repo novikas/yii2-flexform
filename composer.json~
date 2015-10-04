@@ -12,11 +12,11 @@
 	"authors" : [
 		{
 			"name": "Andrei Novikov",
-			"email": "amadeomazerai93@gmail.com",
+			"email": "amadeomazerai93@gmail.com"
 		}
 	],
 	"require": {
-		"kartik-v/yii2-grid"
+		"kartik-v/yii2-grid": "*"
 	},
 	"autoload": {
 		"psr-4": {
