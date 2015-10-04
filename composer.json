@@ -8,6 +8,12 @@
 	"support": {
 		"source": "https://github.com/yiisoft/yii",
 	},
+	"repositories": [
+	 	{
+	    	"type": "vcs",
+	    	"url": "https://github.com/novikas/yii2-flexform"
+	  	}
+	],
 	"authors" : [
 		{
 			"name": "Andrei Novikov",

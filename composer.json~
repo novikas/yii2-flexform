@@ -3,10 +3,17 @@
 	"description": "Includes two different widgets: FlexibleForm and FlexibleGrid, based on yii\\widgets\\ActiveForm and kartik\\widgets\\ActiveForm class which allowing adjust visibility of fields/columns for each user individualy. Require running migration.",
 	"keywords": ["yii2", "ActiveForm", "GridView", "adjustable"],
 	"licence": "BSD-3-Clause",
-	"type": "yii2-extension",	
+	"type": "yii2-extension",
+	"version": "0.0.0-RC0",	
 	"support": {
 		"source": "https://github.com/yiisoft/yii",
 	},
+	"repositories": [
+	 	{
+	    	"type": "vcs",
+	    	"url": "https://github.com/michael-bender/laravel-doctrine.git"
+	  	}
+	],
 	"authors" : [
 		{
 			"name": "Andrei Novikov",
