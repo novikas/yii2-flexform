@@ -3,8 +3,6 @@
  *
  * @author Novikov A
  * 
- * 
- *	
  */
 namespace novikas\flexform;
 
