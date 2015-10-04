@@ -6,18 +6,13 @@
 	"type": "yii2-extension",
 	"version": "0.0.0-RC0",	
 	"support": {
-		"source": "https://github.com/yiisoft/yii",
+		"source": "https://github.com/yiisoft/yii"
 	},
-	"repositories": [
-	 	{
-	    	"type": "vcs",
-	    	"url": "https://github.com/novikas/yii2-flexform"
-	  	}
-	],
+	
 	"authors" : [
 		{
 			"name": "Andrei Novikov",
-			"email": "amadeomazerai93@gmail.com",
+			"email": "amadeomazerai93@gmail.com"
 		}
 	],
 	"require": {
