@@ -14,7 +14,7 @@ class CollapsableField extends ActiveField
      */
     public $template = "{label}\n{hider}\n{input}\n{hint}\n{error}";
 	/*
-	*	Кнопка скрывающяя поле
+	*	The button hidding field
 	*/
 	public $hideButton = "<a href='#' style = 'margin-top:2px;margin-bottom:2px;
 	float: right;padding-right: 4px;padding-left: 5px;padding-top: 2px;padding-bottom: 0px'
