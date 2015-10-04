@@ -7,7 +7,7 @@
  * @version   1.7.4
  */
 
-namespace vendor\novik\flexform;
+namespace novik\flexform;
 
 use Yii;
 use yii\base\InvalidConfigException;

@@ -1,5 +1,5 @@
 <?php
-namespace vendor\novik\flexform\assets;
+namespace novikas\flexform\assets;
 
 use yii\web\AssetBundle;
 

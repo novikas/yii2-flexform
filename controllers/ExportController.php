@@ -7,7 +7,7 @@
  * @version   3.0.1
  */
 
-namespace vendor\novik\flexform\controllers;
+namespace novikas\flexform\controllers;
 
 use kartik\grid\GridView;
 use Yii;

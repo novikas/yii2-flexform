@@ -1,6 +1,6 @@
 <?php
 
-namespace vendor\novik\flexform;
+namespace novikas\flexform;
 
 use kartik\grid\GridView;
 use kartik\grid\GridExportAsset;
@@ -119,7 +119,7 @@ class FlexibleGrid extends GridView implements Templatable
 	
 	/**
 	 * (non-PHPdoc)
-	 * @see \vendor\novik\interfaces\Templatable::getDisplayedAttributes()
+	 * @see novik\interfaces\Templatable::getDisplayedAttributes()
 	 */
 	public function getDisplayedAttributes()
 	{

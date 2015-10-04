@@ -1,13 +1,13 @@
 <?php
 
-namespace vendor\novik\flexform\controllers;
+namespace novikas\flexform\controllers;
 
 use yii\base\Controller;
 use yii\db\Exception;
 
-use vendor\novik\flexform\models\FlexformField;
-use vendor\novik\flexform\models\FlexformTemplate;
-use vendor\novik\interfaces\Templatable;
+use novikas\flexform\models\FlexformField;
+use novikas\flexform\models\FlexformTemplate;
+use novikas\interfaces\Templatable;
 
 class TemplateController extends Controller
 {

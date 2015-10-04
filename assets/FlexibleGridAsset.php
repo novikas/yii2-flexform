@@ -1,5 +1,5 @@
 <?php
-namespace vendor\novik\flexform\assets;
+namespace novikas\flexform\assets;
 
 use yii\web\AssetBundle;
 
@@ -9,6 +9,6 @@ class FlexibleGridAsset extends AssetBundle
 	public $baseUrl = '@flex/root/assets/';
 
 	public $js = [
-			'flexgrid.js',
+		'flexgrid.js',
 	];
 }

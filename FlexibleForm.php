@@ -27,7 +27,7 @@
  *	Than use this widget like ActiveForm widget, as it is a base class for this widget.
  *	
  */
-namespace vendor\novik\flexform;
+namespace novikas\flexform;
 
 use yii\widgets\ActiveForm;
 use yii\base\InvalidConfigException;
@@ -37,10 +37,10 @@ use yii\bootstrap\ButtonDropdown;
 use yii\widgets\Pjax;
 use yii\helpers\ArrayHelper;
 
-use vendor\novik\flexform\models\FlexformTemplate;
-use vendor\novik\flexform\models\FlexformField;
-use vendor\novik\flexform\assets\FlexibleFormAsset;
-use vendor\novik\interfaces\Templatable;
+use novikas\flexform\models\FlexformTemplate;
+use novikas\flexform\models\FlexformField;
+use novikas\flexform\assets\FlexibleFormAsset;
+use novikas\interfaces\Templatable;
 
 class FlexibleForm extends ActiveForm implements Templatable
 {

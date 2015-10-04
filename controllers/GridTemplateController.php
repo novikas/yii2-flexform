@@ -1,10 +1,10 @@
 <?php
 
-namespace vendor\novik\flexform\controllers;
+namespace novikas\flexform\controllers;
 
 use yii\web\Controller;
-use vendor\novik\interfaces\Templatable;
-use vendor\novik\flexform\models\FlexgridTemplate;
+use novikas\interfaces\Templatable;
+use novikas\flexform\models\FlexgridTemplate;
 
 class GridTemplateController extends Controller
 {

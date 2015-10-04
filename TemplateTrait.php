@@ -6,18 +6,18 @@
  * 
  *	
  */
-namespace vendor\novik\flexform;
+namespace novikas\flexform;
 
 use yii\base\InvalidConfigException;
 use yii\base\InvalidCallException;
 use yii\db\Exception;
 
 
-use vendor\novik\flexform\models\FlexformTemplate;
-use vendor\novik\flexform\models\FlexgridTemplate;
-use vendor\novik\flexform\models\FlexformField;
+use novikas\flexform\models\FlexformTemplate;
+use novikas\flexform\models\FlexgridTemplate;
+use novikas\flexform\models\FlexformField;
 
-use vendor\novik\interfaces\Templatable;
+use novikas\interfaces\Templatable;
 
 trait TemplateTrait
 {

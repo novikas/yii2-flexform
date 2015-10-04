@@ -1,6 +1,6 @@
 <?php
 
-namespace vendor\novik\flexform\models;
+namespace novikas\flexform\models;
 
 use yii\db\ActiveRecord;
 /**

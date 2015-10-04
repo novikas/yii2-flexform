@@ -1,6 +1,6 @@
 <?php
 
-namespace vendor\novik\flexform;
+namespace novikas\flexform;
 
 use yii\widgets\ActiveField;
 use yii\helpers\Html;

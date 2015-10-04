@@ -1,14 +1,15 @@
 <?php
 
-namespace vendor\novik\flexform;
+namespace novikas\flexform;
 
+use yii\base\Model;
+use yii\base\InvalidConfigException;
 use kartik\grid\GridView;
 use kartik\grid\GridExportAsset;
-use yii\base\InvalidConfigException;
-use vendor\novik\interfaces\Templatable;
-use vendor\novik\flexform\assets;
-use vendor\novik\flexform\assets\FlexibleGridAsset;
-use yii\base\Model;
+use novikas\interfaces\Templatable;
+use novikas\flexform\assets;
+use novikas\flexform\assets\FlexibleGridAsset;
+
 
 class FlexibleGrid extends GridView implements Templatable
 {
